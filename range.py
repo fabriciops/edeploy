@@ -2,6 +2,11 @@ from time import sleep
 import numpy as np
 import sys
 
+# Considerando a a sequência numérica a seguir (11, 18, 25, 32, 39... )faça uma função que recebe como entrada uma posição e devolve qual o valor do número naquela posição, considerando a sequência numérica apresentada. 
+# Ex:
+# print_valor(x=1) retornará 11; print_valor(x=6) retornará 46; print_valor(x=254) retornará 1.782;
+# print_valor(x=3.542.158) retornará 24.795.110;
+
 def verify(lang):
     my_list = [1,2,3,4]
 

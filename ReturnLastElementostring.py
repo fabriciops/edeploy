@@ -1,5 +1,7 @@
 import sys
 
+# Retorna o último elemento de uma string
+
 def verify(lang):
     my_list = [1,2,3,4]
 
